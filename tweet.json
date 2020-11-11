@@ -1,0 +1,2143 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 04 20:29:28 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 319629364,
+                "id_str": "319629364",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "bryan keyes",
+                "screen_name": "BK641"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1312852358062198784,
+    "id_str": "1312852358062198784",
+    "in_reply_to_screen_name": "BK641",
+    "in_reply_to_status_id": 1312747158475542528,
+    "in_reply_to_status_id_str": "1312747158475542528",
+    "in_reply_to_user_id": 319629364,
+    "in_reply_to_user_id_str": "319629364",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://www.lithium.com\" rel=\"nofollow\">Lithium Tech.</a>",
+    "text": "@BK641 We'd love to welcome you onboard, Bryan! -Linnea",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 02 19:56:44 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We run on #SouthwestHeart! Follow to see more from the best Employees and Customers in the world. For a formal response, please use the link provided.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "southwest.com/feedback",
+                        "expanded_url": "http://southwest.com/feedback",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ceLMaSlRlB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8140,
+        "follow_request_sent": false,
+        "followers_count": 2149907,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 7212562,
+        "id_str": "7212562",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14573,
+        "location": "Dallas, Texas",
+        "name": "Southwest Airlines",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7212562/1600279923",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_link_color": "304CB2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E3E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SouthwestAir",
+        "statuses_count": 970766,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ceLMaSlRlB",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 04 20:19:06 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 96472849,
+                "id_str": "96472849",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Jeff",
+                "screen_name": "up2latemusic"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1312849749536436224,
+    "id_str": "1312849749536436224",
+    "in_reply_to_screen_name": "up2latemusic",
+    "in_reply_to_status_id": 1312845604846882817,
+    "in_reply_to_status_id_str": "1312845604846882817",
+    "in_reply_to_user_id": 96472849,
+    "in_reply_to_user_id_str": "96472849",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://www.lithium.com\" rel=\"nofollow\">Lithium Tech.</a>",
+    "text": "@up2latemusic Pretty cool right!\u2708\ufe0f -Gabriel",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 02 19:56:44 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We run on #SouthwestHeart! Follow to see more from the best Employees and Customers in the world. For a formal response, please use the link provided.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "southwest.com/feedback",
+                        "expanded_url": "http://southwest.com/feedback",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ceLMaSlRlB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8140,
+        "follow_request_sent": false,
+        "followers_count": 2149907,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 7212562,
+        "id_str": "7212562",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14573,
+        "location": "Dallas, Texas",
+        "name": "Southwest Airlines",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7212562/1600279923",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_link_color": "304CB2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E3E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SouthwestAir",
+        "statuses_count": 970766,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ceLMaSlRlB",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 04 20:01:03 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1312845206589509632",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/Jd8qRDqeCE"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 50,
+    "favorited": false,
+    "geo": null,
+    "id": 1312845206589509632,
+    "id_str": "1312845206589509632",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 11,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "For nearly two years, Kent S. commuted from San Jose to Burbank every week. He worked as the Head of Cinematography\u2026 https://t.co/Jd8qRDqeCE",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 02 19:56:44 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We run on #SouthwestHeart! Follow to see more from the best Employees and Customers in the world. For a formal response, please use the link provided.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "southwest.com/feedback",
+                        "expanded_url": "http://southwest.com/feedback",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ceLMaSlRlB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8140,
+        "follow_request_sent": false,
+        "followers_count": 2149907,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 7212562,
+        "id_str": "7212562",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14573,
+        "location": "Dallas, Texas",
+        "name": "Southwest Airlines",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7212562/1600279923",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_link_color": "304CB2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E3E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SouthwestAir",
+        "statuses_count": 970766,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ceLMaSlRlB",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 04 18:53:35 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1312828226545221634",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/URdWWenulO"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16511202,
+                "id_str": "16511202",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Paul Thompson",
+                "screen_name": "FlyingPhotog"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 1312828226545221634,
+    "id_str": "1312828226545221634",
+    "in_reply_to_screen_name": "FlyingPhotog",
+    "in_reply_to_status_id": 1312827778518056960,
+    "in_reply_to_status_id_str": "1312827778518056960",
+    "in_reply_to_user_id": 16511202,
+    "in_reply_to_user_id_str": "16511202",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://www.lithium.com\" rel=\"nofollow\">Lithium Tech.</a>",
+    "text": "@FlyingPhotog We're glad to see everyone having a good time aboard today, and we appreciate welcoming you aboard to\u2026 https://t.co/URdWWenulO",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 02 19:56:44 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We run on #SouthwestHeart! Follow to see more from the best Employees and Customers in the world. For a formal response, please use the link provided.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "southwest.com/feedback",
+                        "expanded_url": "http://southwest.com/feedback",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ceLMaSlRlB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8140,
+        "follow_request_sent": false,
+        "followers_count": 2149907,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 7212562,
+        "id_str": "7212562",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14573,
+        "location": "Dallas, Texas",
+        "name": "Southwest Airlines",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7212562/1600279923",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_link_color": "304CB2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E3E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SouthwestAir",
+        "statuses_count": 970766,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ceLMaSlRlB",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 04 18:52:39 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1140455825649086464,
+                "id_str": "1140455825649086464",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "M. Wood",
+                "screen_name": "GoToStandby"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1312827993425731584,
+    "id_str": "1312827993425731584",
+    "in_reply_to_screen_name": "GoToStandby",
+    "in_reply_to_status_id": 1312825630673768449,
+    "in_reply_to_status_id_str": "1312825630673768449",
+    "in_reply_to_user_id": 1140455825649086464,
+    "in_reply_to_user_id_str": "1140455825649086464",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://www.lithium.com\" rel=\"nofollow\">Lithium Tech.</a>",
+    "text": "@GoToStandby You can't go wrong with a Texas taco! -Linnea",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 02 19:56:44 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We run on #SouthwestHeart! Follow to see more from the best Employees and Customers in the world. For a formal response, please use the link provided.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "southwest.com/feedback",
+                        "expanded_url": "http://southwest.com/feedback",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ceLMaSlRlB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8140,
+        "follow_request_sent": false,
+        "followers_count": 2149907,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 7212562,
+        "id_str": "7212562",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14573,
+        "location": "Dallas, Texas",
+        "name": "Southwest Airlines",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7212562/1600279923",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_link_color": "304CB2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E3E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SouthwestAir",
+        "statuses_count": 970766,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ceLMaSlRlB",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 04 17:52:15 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 131294057,
+                "id_str": "131294057",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Matt Juszczak",
+                "screen_name": "mjuszczak"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1312812793465196544,
+    "id_str": "1312812793465196544",
+    "in_reply_to_screen_name": "mjuszczak",
+    "in_reply_to_status_id": 1312798463038500864,
+    "in_reply_to_status_id_str": "1312798463038500864",
+    "in_reply_to_user_id": 131294057,
+    "in_reply_to_user_id_str": "131294057",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://www.lithium.com\" rel=\"nofollow\">Lithium Tech.</a>",
+    "text": "@mjuszczak You're welcome! -Linnea",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 02 19:56:44 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We run on #SouthwestHeart! Follow to see more from the best Employees and Customers in the world. For a formal response, please use the link provided.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "southwest.com/feedback",
+                        "expanded_url": "http://southwest.com/feedback",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ceLMaSlRlB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8140,
+        "follow_request_sent": false,
+        "followers_count": 2149907,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 7212562,
+        "id_str": "7212562",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14573,
+        "location": "Dallas, Texas",
+        "name": "Southwest Airlines",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7212562/1600279923",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_link_color": "304CB2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E3E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SouthwestAir",
+        "statuses_count": 970766,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ceLMaSlRlB",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 04 17:39:21 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19381755,
+                "id_str": "19381755",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Brett Snyder",
+                "screen_name": "crankyflier"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1312809546075697152,
+    "id_str": "1312809546075697152",
+    "in_reply_to_screen_name": "crankyflier",
+    "in_reply_to_status_id": 1312808918997819392,
+    "in_reply_to_status_id_str": "1312808918997819392",
+    "in_reply_to_user_id": 19381755,
+    "in_reply_to_user_id_str": "19381755",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://www.lithium.com\" rel=\"nofollow\">Lithium Tech.</a>",
+    "text": "@crankyflier Happy to have been spotted, Brett. Hope you'll send us a pic from inside one of our planes sometime soon! -Adam",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 02 19:56:44 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We run on #SouthwestHeart! Follow to see more from the best Employees and Customers in the world. For a formal response, please use the link provided.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "southwest.com/feedback",
+                        "expanded_url": "http://southwest.com/feedback",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ceLMaSlRlB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8140,
+        "follow_request_sent": false,
+        "followers_count": 2149907,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 7212562,
+        "id_str": "7212562",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14573,
+        "location": "Dallas, Texas",
+        "name": "Southwest Airlines",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7212562/1600279923",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_link_color": "304CB2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E3E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SouthwestAir",
+        "statuses_count": 970766,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ceLMaSlRlB",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 04 17:13:39 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1312803081034190849",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/Tm532XvbZj"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 18086050,
+                "id_str": "18086050",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "DanaCortez",
+                "screen_name": "DanaCortez"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1312803081034190849,
+    "id_str": "1312803081034190849",
+    "in_reply_to_screen_name": "DanaCortez",
+    "in_reply_to_status_id": 1312802130995023877,
+    "in_reply_to_status_id_str": "1312802130995023877",
+    "in_reply_to_user_id": 18086050,
+    "in_reply_to_user_id_str": "18086050",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://www.lithium.com\" rel=\"nofollow\">Lithium Tech.</a>",
+    "text": "@DanaCortez Sweet! Hey, DM your confirmation number when you have a chance. We don't have any tacos to give you, bu\u2026 https://t.co/Tm532XvbZj",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 02 19:56:44 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We run on #SouthwestHeart! Follow to see more from the best Employees and Customers in the world. For a formal response, please use the link provided.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "southwest.com/feedback",
+                        "expanded_url": "http://southwest.com/feedback",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ceLMaSlRlB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8140,
+        "follow_request_sent": false,
+        "followers_count": 2149907,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 7212562,
+        "id_str": "7212562",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14573,
+        "location": "Dallas, Texas",
+        "name": "Southwest Airlines",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7212562/1600279923",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_link_color": "304CB2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E3E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SouthwestAir",
+        "statuses_count": 970766,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ceLMaSlRlB",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 04 17:08:35 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1312801806339067905",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/jJd1Z5xjnT"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 18086050,
+                "id_str": "18086050",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "DanaCortez",
+                "screen_name": "DanaCortez"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1312801806339067905,
+    "id_str": "1312801806339067905",
+    "in_reply_to_screen_name": "DanaCortez",
+    "in_reply_to_status_id": 1312801335696257025,
+    "in_reply_to_status_id_str": "1312801335696257025",
+    "in_reply_to_user_id": 18086050,
+    "in_reply_to_user_id_str": "18086050",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://www.lithium.com\" rel=\"nofollow\">Lithium Tech.</a>",
+    "text": "@DanaCortez Well, now I want breakfast tacos. We should probably send some up to Nashville ASAP, also. Thanks, Dana\u2026 https://t.co/jJd1Z5xjnT",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 02 19:56:44 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We run on #SouthwestHeart! Follow to see more from the best Employees and Customers in the world. For a formal response, please use the link provided.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "southwest.com/feedback",
+                        "expanded_url": "http://southwest.com/feedback",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ceLMaSlRlB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8140,
+        "follow_request_sent": false,
+        "followers_count": 2149907,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 7212562,
+        "id_str": "7212562",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14573,
+        "location": "Dallas, Texas",
+        "name": "Southwest Airlines",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7212562/1600279923",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_link_color": "304CB2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E3E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SouthwestAir",
+        "statuses_count": 970766,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ceLMaSlRlB",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 04 16:53:49 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 154566797,
+                "id_str": "154566797",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "David Gonzalez",
+                "screen_name": "TexasDGz"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1312798089451773952,
+    "id_str": "1312798089451773952",
+    "in_reply_to_screen_name": "TexasDGz",
+    "in_reply_to_status_id": 1312797821809111041,
+    "in_reply_to_status_id_str": "1312797821809111041",
+    "in_reply_to_user_id": 154566797,
+    "in_reply_to_user_id_str": "154566797",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://www.lithium.com\" rel=\"nofollow\">Lithium Tech.</a>",
+    "text": "@TexasDGz Deal! See you soon, we hope. \ud83d\udc99\u2764\ufe0f\ud83d\udc9b -Adam",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 02 19:56:44 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We run on #SouthwestHeart! Follow to see more from the best Employees and Customers in the world. For a formal response, please use the link provided.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "southwest.com/feedback",
+                        "expanded_url": "http://southwest.com/feedback",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ceLMaSlRlB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8140,
+        "follow_request_sent": false,
+        "followers_count": 2149907,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 7212562,
+        "id_str": "7212562",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14573,
+        "location": "Dallas, Texas",
+        "name": "Southwest Airlines",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7212562/1600279923",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_link_color": "304CB2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E3E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SouthwestAir",
+        "statuses_count": 970766,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ceLMaSlRlB",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 04 16:51:53 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1312797601868079104",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/uQPUYHWb2F"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 131294057,
+                "id_str": "131294057",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Matt Juszczak",
+                "screen_name": "mjuszczak"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1312797601868079104,
+    "id_str": "1312797601868079104",
+    "in_reply_to_screen_name": "mjuszczak",
+    "in_reply_to_status_id": 1312794791718064133,
+    "in_reply_to_status_id_str": "1312794791718064133",
+    "in_reply_to_user_id": 131294057,
+    "in_reply_to_user_id_str": "131294057",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://www.lithium.com\" rel=\"nofollow\">Lithium Tech.</a>",
+    "text": "@mjuszczak We apologize, but if you make any changes to your flight it would forfeit your eligibility for the promo\u2026 https://t.co/uQPUYHWb2F",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 02 19:56:44 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We run on #SouthwestHeart! Follow to see more from the best Employees and Customers in the world. For a formal response, please use the link provided.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "southwest.com/feedback",
+                        "expanded_url": "http://southwest.com/feedback",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ceLMaSlRlB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8140,
+        "follow_request_sent": false,
+        "followers_count": 2149907,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 7212562,
+        "id_str": "7212562",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14573,
+        "location": "Dallas, Texas",
+        "name": "Southwest Airlines",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7212562/1600279923",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_link_color": "304CB2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E3E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SouthwestAir",
+        "statuses_count": 970766,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ceLMaSlRlB",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 04 16:50:38 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 154566797,
+                "id_str": "154566797",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "David Gonzalez",
+                "screen_name": "TexasDGz"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1312797287672758277,
+    "id_str": "1312797287672758277",
+    "in_reply_to_screen_name": "TexasDGz",
+    "in_reply_to_status_id": 1312795359924695041,
+    "in_reply_to_status_id_str": "1312795359924695041",
+    "in_reply_to_user_id": 154566797,
+    "in_reply_to_user_id_str": "154566797",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://www.lithium.com\" rel=\"nofollow\">Lithium Tech.</a>",
+    "text": "@TexasDGz Fair enough, David. Hit us up next time you head to Dallas. Maybe we can make some suggestions. -Adam",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 02 19:56:44 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We run on #SouthwestHeart! Follow to see more from the best Employees and Customers in the world. For a formal response, please use the link provided.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "southwest.com/feedback",
+                        "expanded_url": "http://southwest.com/feedback",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ceLMaSlRlB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8140,
+        "follow_request_sent": false,
+        "followers_count": 2149907,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 7212562,
+        "id_str": "7212562",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14573,
+        "location": "Dallas, Texas",
+        "name": "Southwest Airlines",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7212562/1600279923",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_link_color": "304CB2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E3E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SouthwestAir",
+        "statuses_count": 970766,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ceLMaSlRlB",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 04 16:48:11 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18086050,
+                "id_str": "18086050",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "DanaCortez",
+                "screen_name": "DanaCortez"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 1312796670992633856,
+    "id_str": "1312796670992633856",
+    "in_reply_to_screen_name": "DanaCortez",
+    "in_reply_to_status_id": 1312795739546816514,
+    "in_reply_to_status_id_str": "1312795739546816514",
+    "in_reply_to_user_id": 18086050,
+    "in_reply_to_user_id_str": "18086050",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://www.lithium.com\" rel=\"nofollow\">Lithium Tech.</a>",
+    "text": "@DanaCortez Hey, Dana. Como se dice, \"Well, that got awkward\" en Espanol? -Adam",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 02 19:56:44 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We run on #SouthwestHeart! Follow to see more from the best Employees and Customers in the world. For a formal response, please use the link provided.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "southwest.com/feedback",
+                        "expanded_url": "http://southwest.com/feedback",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ceLMaSlRlB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8140,
+        "follow_request_sent": false,
+        "followers_count": 2149907,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 7212562,
+        "id_str": "7212562",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14573,
+        "location": "Dallas, Texas",
+        "name": "Southwest Airlines",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7212562/1600279923",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_link_color": "304CB2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E3E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SouthwestAir",
+        "statuses_count": 970766,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ceLMaSlRlB",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 04 16:39:38 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1312794517481779204",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/u97wwb09g9"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 154566797,
+                "id_str": "154566797",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "David Gonzalez",
+                "screen_name": "TexasDGz"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1312794517481779204,
+    "id_str": "1312794517481779204",
+    "in_reply_to_screen_name": "TexasDGz",
+    "in_reply_to_status_id": 1312792635304816640,
+    "in_reply_to_status_id_str": "1312792635304816640",
+    "in_reply_to_user_id": 154566797,
+    "in_reply_to_user_id_str": "154566797",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://www.lithium.com\" rel=\"nofollow\">Lithium Tech.</a>",
+    "text": "@TexasDGz Welll.......  The napkin may have been drawn on in San Antonio. Just because the cat has kittens in the s\u2026 https://t.co/u97wwb09g9",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 02 19:56:44 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We run on #SouthwestHeart! Follow to see more from the best Employees and Customers in the world. For a formal response, please use the link provided.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "southwest.com/feedback",
+                        "expanded_url": "http://southwest.com/feedback",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ceLMaSlRlB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8140,
+        "follow_request_sent": false,
+        "followers_count": 2149907,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 7212562,
+        "id_str": "7212562",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14573,
+        "location": "Dallas, Texas",
+        "name": "Southwest Airlines",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7212562/1600279923",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_link_color": "304CB2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E3E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SouthwestAir",
+        "statuses_count": 970766,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ceLMaSlRlB",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 04 16:32:52 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 179179394,
+                "id_str": "179179394",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "DEBBIE. PENA. LEWANDOWSKI",
+                "screen_name": "teacher12333"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1312792816989290496,
+    "id_str": "1312792816989290496",
+    "in_reply_to_screen_name": "teacher12333",
+    "in_reply_to_status_id": 1312775595131101185,
+    "in_reply_to_status_id_str": "1312775595131101185",
+    "in_reply_to_user_id": 179179394,
+    "in_reply_to_user_id_str": "179179394",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://www.lithium.com\" rel=\"nofollow\">Lithium Tech.</a>",
+    "text": "@teacher12333 You can't go wrong with any spot in the Great State of Texas! -Linnea",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 02 19:56:44 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We run on #SouthwestHeart! Follow to see more from the best Employees and Customers in the world. For a formal response, please use the link provided.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "southwest.com/feedback",
+                        "expanded_url": "http://southwest.com/feedback",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ceLMaSlRlB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8140,
+        "follow_request_sent": false,
+        "followers_count": 2149907,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 7212562,
+        "id_str": "7212562",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14573,
+        "location": "Dallas, Texas",
+        "name": "Southwest Airlines",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7212562/1600279923",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_link_color": "304CB2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E3E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SouthwestAir",
+        "statuses_count": 970766,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ceLMaSlRlB",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 04 16:32:17 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 23122647,
+                "id_str": "23122647",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Mandy Marks",
+                "screen_name": "mandymarks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1312792667445624833,
+    "id_str": "1312792667445624833",
+    "in_reply_to_screen_name": "mandymarks",
+    "in_reply_to_status_id": 1312747992995241984,
+    "in_reply_to_status_id_str": "1312747992995241984",
+    "in_reply_to_user_id": 23122647,
+    "in_reply_to_user_id_str": "23122647",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://www.lithium.com\" rel=\"nofollow\">Lithium Tech.</a>",
+    "text": "@mandymarks We'll keep our fingers crossed we can bring that route back for y'all soon one day! -Linnea",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 02 19:56:44 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We run on #SouthwestHeart! Follow to see more from the best Employees and Customers in the world. For a formal response, please use the link provided.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "southwest.com/feedback",
+                        "expanded_url": "http://southwest.com/feedback",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ceLMaSlRlB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8140,
+        "follow_request_sent": false,
+        "followers_count": 2149907,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 7212562,
+        "id_str": "7212562",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14573,
+        "location": "Dallas, Texas",
+        "name": "Southwest Airlines",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7212562/1600279923",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_link_color": "304CB2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E3E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SouthwestAir",
+        "statuses_count": 970766,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ceLMaSlRlB",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 04 16:31:30 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 375700141,
+                "id_str": "375700141",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Adam Eshbaugh",
+                "screen_name": "919BeerAdam"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1312792471433170944,
+    "id_str": "1312792471433170944",
+    "in_reply_to_screen_name": "919BeerAdam",
+    "in_reply_to_status_id": 1312726079031869441,
+    "in_reply_to_status_id_str": "1312726079031869441",
+    "in_reply_to_user_id": 375700141,
+    "in_reply_to_user_id_str": "375700141",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://www.lithium.com\" rel=\"nofollow\">Lithium Tech.</a>",
+    "text": "@919BeerAdam Cheers to that, Adam! We're glad to welcome you onboard. -Linnea",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 02 19:56:44 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We run on #SouthwestHeart! Follow to see more from the best Employees and Customers in the world. For a formal response, please use the link provided.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "southwest.com/feedback",
+                        "expanded_url": "http://southwest.com/feedback",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ceLMaSlRlB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8140,
+        "follow_request_sent": false,
+        "followers_count": 2149907,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 7212562,
+        "id_str": "7212562",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14573,
+        "location": "Dallas, Texas",
+        "name": "Southwest Airlines",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7212562/1600279923",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_link_color": "304CB2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E3E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SouthwestAir",
+        "statuses_count": 970766,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ceLMaSlRlB",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 04 16:23:34 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14134787,
+                "id_str": "14134787",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Marlo Augustus",
+                "screen_name": "achalaugustine"
+            }
+        ]
+    },
+    "favorite_count": 6,
+    "favorited": false,
+    "geo": null,
+    "id": 1312790476743876609,
+    "id_str": "1312790476743876609",
+    "in_reply_to_screen_name": "achalaugustine",
+    "in_reply_to_status_id": 1312789871753297920,
+    "in_reply_to_status_id_str": "1312789871753297920",
+    "in_reply_to_user_id": 14134787,
+    "in_reply_to_user_id_str": "14134787",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://www.lithium.com\" rel=\"nofollow\">Lithium Tech.</a>",
+    "text": "@achalaugustine Deep Ellum alone stands to confirm this claim. Well done, Marlo. -Adam",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 02 19:56:44 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We run on #SouthwestHeart! Follow to see more from the best Employees and Customers in the world. For a formal response, please use the link provided.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "southwest.com/feedback",
+                        "expanded_url": "http://southwest.com/feedback",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ceLMaSlRlB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8140,
+        "follow_request_sent": false,
+        "followers_count": 2149907,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 7212562,
+        "id_str": "7212562",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14573,
+        "location": "Dallas, Texas",
+        "name": "Southwest Airlines",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7212562/1600279923",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_link_color": "304CB2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E3E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SouthwestAir",
+        "statuses_count": 970766,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ceLMaSlRlB",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 04 16:14:07 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1964856133,
+                "id_str": "1964856133",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Michaelangelo",
+                "screen_name": "mbcarmona01"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 1312788098334425089,
+    "id_str": "1312788098334425089",
+    "in_reply_to_screen_name": "mbcarmona01",
+    "in_reply_to_status_id": 1312770234475048960,
+    "in_reply_to_status_id_str": "1312770234475048960",
+    "in_reply_to_user_id": 1964856133,
+    "in_reply_to_user_id_str": "1964856133",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://www.lithium.com\" rel=\"nofollow\">Lithium Tech.</a>",
+    "text": "@mbcarmona01 You can't go wrong with any food in the Windy City! -Linnea",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 02 19:56:44 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We run on #SouthwestHeart! Follow to see more from the best Employees and Customers in the world. For a formal response, please use the link provided.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "southwest.com/feedback",
+                        "expanded_url": "http://southwest.com/feedback",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ceLMaSlRlB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8140,
+        "follow_request_sent": false,
+        "followers_count": 2149907,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 7212562,
+        "id_str": "7212562",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14573,
+        "location": "Dallas, Texas",
+        "name": "Southwest Airlines",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7212562/1600279923",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_link_color": "304CB2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E3E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SouthwestAir",
+        "statuses_count": 970766,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ceLMaSlRlB",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 04 16:11:40 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/94iRzhe3hg",
+                "expanded_url": "https://twitter.com/SouthwestAir/status/1312787481826217989/photo/1",
+                "id": 1312787472523223041,
+                "id_str": "1312787472523223041",
+                "indices": [
+                    17,
+                    40
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/Ejf1QDVUYAEmoM_.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ejf1QDVUYAEmoM_.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 202,
+                        "resize": "fit",
+                        "w": 360
+                    },
+                    "medium": {
+                        "h": 202,
+                        "resize": "fit",
+                        "w": 360
+                    },
+                    "small": {
+                        "h": 202,
+                        "resize": "fit",
+                        "w": 360
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/94iRzhe3hg"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1139965943092846592,
+                "id_str": "1139965943092846592",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Blake Cottle",
+                "screen_name": "bec102896"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/94iRzhe3hg",
+                "expanded_url": "https://twitter.com/SouthwestAir/status/1312787481826217989/photo/1",
+                "id": 1312787472523223041,
+                "id_str": "1312787472523223041",
+                "indices": [
+                    17,
+                    40
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/Ejf1QDVUYAEmoM_.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ejf1QDVUYAEmoM_.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 202,
+                        "resize": "fit",
+                        "w": 360
+                    },
+                    "medium": {
+                        "h": 202,
+                        "resize": "fit",
+                        "w": 360
+                    },
+                    "small": {
+                        "h": 202,
+                        "resize": "fit",
+                        "w": 360
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "animated_gif",
+                "url": "https://t.co/94iRzhe3hg",
+                "video_info": {
+                    "aspect_ratio": [
+                        180,
+                        101
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/Ejf1QDVUYAEmoM_.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1312787481826217989,
+    "id_str": "1312787481826217989",
+    "in_reply_to_screen_name": "bec102896",
+    "in_reply_to_status_id": 1312785644213633025,
+    "in_reply_to_status_id_str": "1312785644213633025",
+    "in_reply_to_user_id": 1139965943092846592,
+    "in_reply_to_user_id_str": "1139965943092846592",
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://www.lithium.com\" rel=\"nofollow\">Lithium Tech.</a>",
+    "text": "@bec102896 -Jeni https://t.co/94iRzhe3hg",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 02 19:56:44 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We run on #SouthwestHeart! Follow to see more from the best Employees and Customers in the world. For a formal response, please use the link provided.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "southwest.com/feedback",
+                        "expanded_url": "http://southwest.com/feedback",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ceLMaSlRlB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8140,
+        "follow_request_sent": false,
+        "followers_count": 2149907,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 7212562,
+        "id_str": "7212562",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14573,
+        "location": "Dallas, Texas",
+        "name": "Southwest Airlines",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7212562/1600279923",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248295090058973189/D2P-KYJ__normal.jpg",
+        "profile_link_color": "304CB2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E3E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SouthwestAir",
+        "statuses_count": 970766,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/ceLMaSlRlB",
+        "utc_offset": null,
+        "verified": true
+    }
+}
