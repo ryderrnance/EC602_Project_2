@@ -12,7 +12,10 @@ from termcolor import colored, cprint
 credentials = service_account.Credentials.from_service_account_file(r'C:\Users\Ryder\Documents\602_Project2\NLP_key2.json')
 
 #####Enter your credentials here#####
-
+#consumer_key =
+#consumer_secret =
+#access_key =
+#access_secret =
 
 
 def broom(tweet):
